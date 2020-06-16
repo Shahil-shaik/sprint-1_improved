@@ -10,4 +10,4 @@ This is the same sprint-1 project with some improvements suggested by the evalua
 4.corrected the test cases which tests custom exceptions in the code.
 
 
-NOTE:this program is to be run from command line only as it gives NullPointerException during password intake from any IDE .
+NOTE:this program is to be run from command line only as it gives NullPointerException during password intake if ran from any IDE .
